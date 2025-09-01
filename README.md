@@ -1,4 +1,4 @@
-# Green Bytes 1.0
+# 🌱 Green Bytes
 
 > *“A healthy life doesn’t have to be a sprint, it’s a marathon”*  
 
@@ -7,7 +7,7 @@ The goal is to facilitate access to balanced nutrition, promote physical activit
 
 ---
 
-## Problem Description
+## 🧩 Problem Description
 We are currently facing a global epidemic of **obesity and unhealthy habits**:  
 - More than **70% of the adult population in Mexico** is overweight or obese (INEGI, 2021).  
 - Chronic diseases related to poor diet (such as diabetes, hypertension, and cancer) continue to rise.  
@@ -17,7 +17,7 @@ These issues are **preventable** through healthier eating, consistent physical a
 
 ---
 
-## Justification
+## 💡 Justification
 **Green Bytes** provides an integral solution by:  
 - Allowing users to log personal health data (weight, glucose, blood pressure, sleep, hydration, physical activity).  
 - Calculating caloric intake and providing **personalized meal plans** according to goals, tastes, and dietary restrictions.  
@@ -30,7 +30,7 @@ This way, the app promotes not only individual health but also **social and envi
 
 ---
 
-## Key Features
+## 🚀 Key Features
 - Complete health tracking (weight, glucose, blood pressure, sleep, water intake, physical activity).  
 - Personalized calorie calculator.  
 - Custom meal plans adapted to user preferences and restrictions.  
@@ -49,15 +49,11 @@ This way, the app promotes not only individual health but also **social and envi
 
 ---
 
-## Impact
+## 🌍 Impact
 - **Health**: Prevention of chronic diseases.  
 - **Social**: Support for local communities.  
 - **Economic**: Reduced medical and food-related expenses.  
 - **Environmental**: Lower food waste and reduced carbon footprint.  
 
 ---
-
-## Author
-Developed by [Fiona Kuang](https://github.com/<your-username>).  
 A project aligned with the **United Nations Sustainable Development Goals (SDGs)**.  
-
