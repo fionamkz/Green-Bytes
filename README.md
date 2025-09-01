@@ -1,60 +1,63 @@
-# Green Bytes 
+# Green Bytes 1.0
 
-> *“Una vida sana no tiene que ser un sprint, es una maratón”*  
+> *“A healthy life doesn’t have to be a sprint, it’s a marathon”*  
 
-**Green Bytes** es una aplicación móvil innovadora que combina **tecnología, salud y sostenibilidad** para ayudar a las personas a transformar sus hábitos de vida.  
-El objetivo es facilitar el acceso a una alimentación equilibrada, fomentar la actividad física, apoyar la economía local y promover una vida más consciente con el medio ambiente.
-
----
-
-## Descripción del problema
-En la actualidad enfrentamos una **epidemia de obesidad y malos hábitos alimenticios**:  
-- Más del **70% de la población adulta en México** sufre de sobrepeso u obesidad (INEGI, 2021).  
-- Las enfermedades crónicas relacionadas con la alimentación (diabetes, hipertensión, cáncer) siguen aumentando.  
-- La falta de sostenibilidad en la industria alimentaria genera desperdicio, emisiones de carbono y afecta a agricultores locales.  
-
-Estos problemas son **evitables** si adoptamos un estilo de vida saludable, con alimentación consciente, actividad física regular y reducción del desperdicio de alimentos.  
+**Green Bytes** is an innovative mobile application that combines **technology, health, and sustainability** to help people transform their lifestyle habits.  
+The goal is to facilitate access to balanced nutrition, promote physical activity, support local economies, and encourage an environmentally conscious way of living.  
 
 ---
 
-## Justificación
-**Green Bytes** es una solución integral que:  
-- Permite registrar datos de salud (peso, glucosa, presión arterial, hidratación, actividad física).  
-- Calcula la ingesta calórica y recomienda **menús personalizados** según objetivos, gustos y restricciones alimenticias.  
-- Ofrece recordatorios diarios para mantener hábitos consistentes.  
-- Se conecta con **agricultores locales** para comprar alimentos frescos, fomentando la economía local y reduciendo el impacto ambiental.  
-- Proporciona una **comunidad de apoyo**, donde los usuarios pueden compartir su progreso y motivarse entre sí.  
-- Incluye un **marketplace saludable** con descuentos en gimnasios, alimentos y artículos deportivos.  
+## Problem Description
+We are currently facing a global epidemic of **obesity and unhealthy habits**:  
+- More than **70% of the adult population in Mexico** is overweight or obese (INEGI, 2021).  
+- Chronic diseases related to poor diet (such as diabetes, hypertension, and cancer) continue to rise.  
+- The food industry often lacks sustainability, generating waste, high carbon emissions, and limited support for local farmers.  
 
-De esta manera, la app no solo promueve la salud individual, sino que también **impacta en lo social y lo ambiental**.  
+These issues are **preventable** through healthier eating, consistent physical activity, and reducing food waste.  
 
 ---
 
-## Características principales
-- Registro completo de salud (peso, glucosa, presión, sueño, agua, actividad física).  
-- Calculadora de calorías personalizada.  
-- Planes de alimentación adaptados a gustos y restricciones.  
-- Conexión con agricultores locales y servicio a domicilio de alimentos frescos.  
-- Recordatorios amigables de hábitos saludables.  
-- Comunidad y red de apoyo con seguimiento entre usuarios.  
-- Marketplace con descuentos en productos y servicios saludables.  
-- Modelo de negocio sostenible con planes premium.  
+## Justification
+**Green Bytes** provides an integral solution by:  
+- Allowing users to log personal health data (weight, glucose, blood pressure, sleep, hydration, physical activity).  
+- Calculating caloric intake and providing **personalized meal plans** according to goals, tastes, and dietary restrictions.  
+- Offering daily reminders to encourage healthy and consistent habits.  
+- Connecting users directly with **local farmers** to purchase fresh products, supporting local economies and reducing environmental impact.  
+- Creating a **supportive community**, where users can share progress and motivate each other.  
+- Featuring a **healthy marketplace** with discounts on gyms, food, and sports equipment.  
+
+This way, the app promotes not only individual health but also **social and environmental impact**.  
 
 ---
 
-## Tecnologías usadas
+## Key Features
+- Complete health tracking (weight, glucose, blood pressure, sleep, water intake, physical activity).  
+- Personalized calorie calculator.  
+- Custom meal plans adapted to user preferences and restrictions.  
+- Direct connection with local farmers and home delivery of fresh food.  
+- Friendly reminders for healthy habits.  
+- Supportive community and progress sharing among users.  
+- Healthy marketplace with exclusive discounts.  
+- Sustainable business model with premium subscription options.  
+
+---
+
+## 🛠️ Tech Stack
 - Swift (Xcode)
-- Arquitectura modular
-- Integración con servicios de terceros (API para marketplace y notificaciones)
+- Modular architecture
+- Third-party integrations (marketplace API, push notifications)
 
 ---
 
-## Impacto
-- **Salud**: Prevención de enfermedades crónicas.  
-- **Social**: Apoyo a comunidades locales.  
-- **Económico**: Reducción de gastos médicos y de alimentación.  
-- **Ambiental**: Menor desperdicio de alimentos y menor huella de carbono.  
+## Impact
+- **Health**: Prevention of chronic diseases.  
+- **Social**: Support for local communities.  
+- **Economic**: Reduced medical and food-related expenses.  
+- **Environmental**: Lower food waste and reduced carbon footprint.  
 
 ---
 
-Un proyecto alineado con los **Objetivos de Desarrollo Sostenible (ODS)** de la ONU.  
+## Author
+Developed by [Fiona Kuang](https://github.com/<your-username>).  
+A project aligned with the **United Nations Sustainable Development Goals (SDGs)**.  
+
